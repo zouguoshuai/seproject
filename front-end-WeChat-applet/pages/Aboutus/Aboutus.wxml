@@ -1,0 +1,17 @@
+<view>
+  <image class="background" mode="scaleToFill" src="/images/fankui.jpg"></image>
+</view>
+<view class="zhongda">
+  中大食堂
+</view>
+<view class="do">
+  <ul class="member_intro">
+  小组成员
+  <li>郑一新</li>
+  <li>郑博铿</li>
+  <li>邹国帅</li>
+  <li>谢柏韬</li>
+  <li>陈骁</li>
+  </ul>
+  <text>2024-6-19</text>
+</view>
